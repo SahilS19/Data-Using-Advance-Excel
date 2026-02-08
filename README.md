@@ -1,4 +1,4 @@
-# Data-Using-Excel
+# Data-Using-Advance-Excel
 
 # 📊 Advanced Microsoft Excel
 
@@ -25,7 +25,7 @@ Through hands-on projects, I’ve learned to turn raw data into actionable insig
 | Category | Tools & Techniques |
 |-----------|--------------------|
 | **📈 Data Analysis** | Pivot Tables, Pivot Charts, Data Filtering, Conditional Formatting |
-| **🧮 Advanced Functions** | XLOOKUP, INDEX-MATCH, ARRAYFORMULA, IF with nested logic |
+| **🧮 Advanced Functions** | VLOOKUP, INDEX-MATCH, ARRAYFORMULA, IF with nested logic |
 | **⚡ Automation** | VBA Macros, User Forms, Event Triggers, Button-Based Automation |
 | **🧹 Data Cleaning** | Power Query, Data Validation, Error Handling, Duplicate Removal |
 
@@ -47,7 +47,6 @@ Through hands-on projects, I’ve learned to turn raw data into actionable insig
 | 🧾 **Sales Dashboard.xlsx** | Visualizes regional and monthly performance with slicers and charts |
 | 💰 **Financial Projection Model.xlsx** | 5-year forecast model with sensitivity analysis |
 | 👥 **HR Analytics Report.xlsx** | Workforce trend dashboard with gender, age, and department filters |
-| ⚙️ **VBA Task Automation.xlsm** | Automates repetitive tasks using buttons and VBA modules |
 
 ---
 
